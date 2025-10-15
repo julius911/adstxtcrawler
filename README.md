@@ -1,4 +1,5 @@
-## Synopsis
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5142983559310598"
+     crossorigin="anonymous"></script>## Synopsis
 
 An example crawler for ads.txt files given a list of URLs or domains etc and saves them to a SQLite DB table.
 
